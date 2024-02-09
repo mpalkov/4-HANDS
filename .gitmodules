@@ -1,0 +1,6 @@
+[submodule "project-3-client"]
+	path = project-3-client
+	url = https://github.com/LMC-Org/project-3-client.git
+[submodule "project-3-server"]
+	path = project-3-server
+	url = https://github.com/LMC-Org/project-3-server.git
